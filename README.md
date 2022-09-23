@@ -1,14 +1,15 @@
-### Olá! sou Matheus Barros 👋
+## Olá! sou Matheus Barros 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheusbarro.s?igshid=YmMyMTA2M2Y=)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matheus.gama.92505)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-barros-9b333a202)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBarros07&show_icons=true&theme=dracula)
+
 ### Linguagens e tecnologias que estilizei em meus projetos e que fiz commit
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBarros07&layout=compact)](https://github.com/MatheusBarros07/github-readme-stats)
 
-## Tecnologias que uso no meu dia
+### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
 <img alihn="center" alt=html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,6 +24,6 @@
 Sempre em busca de evolução.
 trabalho duro, estudo, prática e prática de novo. Assim chegaremos a perfeição.
 
-## Contatos
+### Contatos
 - Email mgama868@gmail.com
 - Telefone (85) 98139-5169
