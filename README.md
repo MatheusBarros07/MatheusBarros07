@@ -5,6 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-barros-9b333a202)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBarros07&show_icons=true&theme=dracula)
+### Linguagens e tecnologias que estilizei em meus projetos e que fiz commit
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBarros07&layout=compact)](https://github.com/MatheusBarros07/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
@@ -17,8 +19,6 @@
 <img alihn="center" alt=git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-### Linguagens e tecnologias que estilizei em meus projetos que fiz commit
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBarros07&layout=compact)](https://github.com/MatheusBarros07/github-readme-stats)
 
 Sempre em busca de evolução.
 trabalho duro, estudo, prática e prática de novo. Assim chegaremos a perfeição.
